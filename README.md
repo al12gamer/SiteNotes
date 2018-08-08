@@ -73,29 +73,56 @@ Notes on websites I've found while out in the Bay Area during my 2018 Tesla inte
 34. https://powh.io
   * *yes I know I accidentally messed up the numbering here - this is a managed blockchain solution*
 35. https://www.habitat.sh/
+  * *Habitat is open source software that creates platform-independent build artifacts and provides built-in deployment and management capabilities.*
 36. https://sandstorm.io/
+  * *a way to run containerized, easy to manage, applications on your self-hosted server*
 37. https://localethereum.com/offers/PayPal
+  * *buy ETH locally using paypal*
 38. https://paxful.com/sell-bitcoin/paypal
+  * *sell BTC or ETH locally using paypal*
 39. https://spacewalkproject.github.io/
+  * *how I managed VMs in a datacenter in the past, will maybe use this in the future*
 40. https://wekan.github.io/
+  * *open source kanban that looks and feels kinda like Trello*
 41. https://cloudron.io/
+  * *an alternative I found to sandstorm, a managed option*
 42. https://buildbot.net/
+  * *continous integration framework for building and running your software*
 43. http://www.celeryproject.org/
+  * *Celery is an open source asynchronous task queue or job queue which is based on distributed message passing.*
 44. https://www.stopdatamining.me/
+  * *GET OUT of sites that mine your data for profit*
 45. https://www.reddit.com/r/selfhosted/comments/8v5jjm/cozyio_or_nextcloud/
+  * *a good comments section debating on whether to use cozy.io over nextcloud*
 46. https://cozy.io 
+  * *as aforementioned, an alternative to nextcloud for file hosting*
 47. https://www.bludit.com/
+  * *create a self-hosting site or blog in seconds using this framework*
 48. https://about.riot.im/
+  * *about the decentralized approach to messaging*
 49. https://twilio.com
+  * *great customer communication suite for support employees*
 50. https://drivecargo.com/
+  * *make extra money while working a rideshare job by selling products to prospective customers as you drive- I met someone using this while in the bay*
 51. https://sensio.cloud/
+  * *Code and describe your infrastructure, SensioCloud continuously deploys and synchronizes your application, its data, and services... Git-like.*
 52. https://redfin.com
+  * *competitive pricing and selling of homes, a service I found in the bay while looking for housing*
 53. https://restic.net/
+  * *manual pages for a proper automated backup solution for headless linux or foss servers/services*
 54. https://slice.is/
+  * *insurance and micro-insurance services for those who rideshare, rent or want to cover personal items*
 55. https://asciinema.org/
+  * *the BEST way to record your terminal sessions when teaching others or sharing projects you've worked on in the terminal*
 56. https://transfer.sh/
+  * *easiest way I've found to transfer small files from server to server without using scp*
 57. https://paiza.io/en
+  * *the website says: paiza.IO is online editor and compiler where you can write and run code instantly. Whenever you come up with new idea, learn or teach programming, you and others can just write and run code.*
 58. https://www.clutter.com
+  * *an especially-useful-for-the-tight-packed-bay-area service for getting rid of your excess stuff until you need it again*
 59. https://www.3dhubs.com/
+  * *great locally-sourced service for mass 3D printing, mold-injection and other services if you don't want to purchase a printer yourself*
 60. https://easydigitaldownloads.com/
+  * *easy plugin for your site to help you sell logos or other digital items to users*
 61. https://dokit.io/en/mediawiki
+  * *plugin for mediawiki that makes it easier to navigate and edit your wiki*
