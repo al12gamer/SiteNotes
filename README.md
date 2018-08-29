@@ -126,3 +126,5 @@ Notes on websites I've found while out in the Bay Area during my 2018 Tesla inte
   * *easy plugin for your site to help you sell logos or other digital items to users*
 61. https://dokit.io/en/mediawiki
   * *plugin for mediawiki that makes it easier to navigate and edit your wiki*
+62. https://www.ovirt.org/
+  * *An easy to use interface to manage VMs and containers under KVM on your server*
