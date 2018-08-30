@@ -128,3 +128,7 @@ Notes on websites I've found while out in the Bay Area during my 2018 Tesla inte
   * *plugin for mediawiki that makes it easier to navigate and edit your wiki*
 62. https://www.ovirt.org/
   * *An easy to use interface to manage VMs and containers under KVM on your server*
+63. https://itrenew.com/solutions/services/it-asset-disposition/
+  * *renew IT resources and provision them with LinuxBoot*
+64. https://www.linuxboot.org/
+  * *Let Linux handle the boot process instead of relying on outdated-out-of-the-box UEFI or legacy boot. Linux as Firmware*
