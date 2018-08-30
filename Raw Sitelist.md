@@ -59,3 +59,6 @@ https://www.clutter.com
 https://www.3dhubs.com/
 https://easydigitaldownloads.com/
 https://dokit.io/en/mediawiki
+https://itrenew.com/solutions/services/it-asset-disposition/
+https://www.linuxboot.org/
+https://ovirt.org
