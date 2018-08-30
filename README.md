@@ -132,3 +132,5 @@ Notes on websites I've found while out in the Bay Area during my 2018 Tesla inte
   * *renew IT resources and provision them with LinuxBoot*
 64. https://www.linuxboot.org/
   * *Let Linux handle the boot process instead of relying on outdated-out-of-the-box UEFI or legacy boot. Linux as Firmware*
+65. https://storj.io/
+  * *Decentralized cloud storage that you can sell to others or buy from others in a futuristic block/s3 storage marketplace*
