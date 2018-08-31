@@ -143,4 +143,5 @@ Open Source Summit
   * *Get bare metal hardware as a service on demand. Imagine your own co-located servers, except you don't have to manage them, could be good for spinning up your own sandbox*
 69. https://github.com/kelseyhightower/kubernetes-the-hard-way
   * *Learn Kubernetes the hard way*
-  
+70. https://bosh.io/docs/
+  * *BOSH is a project that unifies release engineering, deployment, and lifecycle management of small and large-scale cloud software. BOSH can provision and deploy software over hundreds of VMs.*
