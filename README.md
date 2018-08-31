@@ -141,3 +141,6 @@ Open Source Summit
   * *Americans creating their own networks in the face of Trump's 2018 anti-net-neutrality stuff*
 68. https://www.packet.net/
   * *Get bare metal hardware as a service on demand. Imagine your own co-located servers, except you don't have to manage them, could be good for spinning up your own sandbox*
+69. https://github.com/kelseyhightower/kubernetes-the-hard-way
+  * *Learn Kubernetes the hard way*
+  
