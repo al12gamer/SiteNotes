@@ -145,3 +145,5 @@ Open Source Summit
   * *Learn Kubernetes the hard way*
 70. https://bosh.io/docs/
   * *BOSH is a project that unifies release engineering, deployment, and lifecycle management of small and large-scale cloud software. BOSH can provision and deploy software over hundreds of VMs.*
+71. https://www.tfir.io/
+  * *A great journalism site covering news in the Open Source space*  
