@@ -137,3 +137,7 @@ Open Source Summit
   * *Decentralized cloud storage that you can sell to others or buy from others in a futuristic block/s3 storage marketplace*
 66. https://www.metabase.com/
   * *See your data and ask questions from the data metrics*
+67. https://motherboard.vice.com/en_us/article/a3np4a/new-municipal-broadband-map?utm_source=mbfb
+  * *Americans creating their own networks in the face of Trump's 2018 anti-net-neutrality stuff*
+68. https://www.packet.net/
+  * *Get bare metal hardware as a service on demand. Imagine your own co-located servers, except you don't have to manage them, could be good for spinning up your own sandbox*
