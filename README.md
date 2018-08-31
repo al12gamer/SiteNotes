@@ -1,5 +1,6 @@
 # SiteNotes
-Notes on websites I've found while out in the Bay Area during my 2018 Tesla internship.
+Notes on websites I've found while out in the Bay Area during my 2018 Tesla internship or while at the North American
+Open Source Summit
 
 ## List of Sites
 *each site will have a description underneath it, view the raw sitelist if you just want to copy all websites*
@@ -134,3 +135,5 @@ Notes on websites I've found while out in the Bay Area during my 2018 Tesla inte
   * *Let Linux handle the boot process instead of relying on outdated-out-of-the-box UEFI or legacy boot. Linux as Firmware*
 65. https://storj.io/
   * *Decentralized cloud storage that you can sell to others or buy from others in a futuristic block/s3 storage marketplace*
+66. https://www.metabase.com/
+  * *See your data and ask questions from the data metrics*
