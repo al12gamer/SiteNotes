@@ -1,4 +1,4 @@
-Metromile
+https://guacamole.apache.org/Metromile
 https://ipfs.io/
 https://zeronet.io/
 http://datproject.org/
@@ -19,7 +19,7 @@ https://gems.org
 https://turo.com
 https://www.noisebridge.net/wiki/Noisebridge 
 https://devhints.io/cron
-https://wdt.io/
+https://guacamole.apache.org/https://wdt.io/
 https://www.vagrantup.com/
 Backblaze.com
 Jottacloud.com
@@ -68,3 +68,4 @@ https://www.packet.net/
 https://bosh.io
 https://github.com/kelseyhightower/kubernetes-the-hard-way
 https://www.tfir.io/
+https://guacamole.apache.org/
