@@ -147,3 +147,5 @@ Open Source Summit
   * *BOSH is a project that unifies release engineering, deployment, and lifecycle management of small and large-scale cloud software. BOSH can provision and deploy software over hundreds of VMs.*
 71. https://www.tfir.io/
   * *A great journalism site covering news in the Open Source space*  
+72. https://guacamole.apache.org/
+  * *Fanstastic open source project aiming to serve up remote desktops to web browsers via HTML5 frontend and various tomcat-related backends. Would make a for a great and impressive way to connect to my no-ip homelab servers* 
