@@ -70,3 +70,5 @@ https://github.com/kelseyhightower/kubernetes-the-hard-way
 https://www.tfir.io/
 https://guacamole.apache.org/
 https://uphold.com/
+https://www.upcloud.com/pricing/
+https://drone.io
