@@ -151,3 +151,5 @@ Open Source Summit
   * *Fanstastic open source project aiming to serve up remote desktops to web browsers via HTML5 frontend and various tomcat-related backends. Would make a for a great and impressive way to connect to my no-ip homelab servers* 
 73. https://uphold.com/
   * *Buy sell and invest cryptocurrency*
+74. https://drone.io/
+  * *Ansible meets Jenkins*
