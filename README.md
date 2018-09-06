@@ -153,3 +153,5 @@ Open Source Summit
   * *Buy sell and invest cryptocurrency*
 74. https://drone.io/
   * *Ansible meets Jenkins*
+75. https://www.upcloud.com/pricing/
+  * *Basically a more expensive spot instance/quick spin-up vm provider, rivaling Vultr although as of end-2018 Vultr is cheaper*
